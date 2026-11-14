@@ -1,0 +1,24 @@
+{
+  "name": "Tiệm sách Lá Mơ Daily",
+  "short_name": "Lá Mơ Daily",
+  "description": "Nhịp điệu của riêng bạn",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f5f0",
+  "theme_color": "#68873d",
+  "icons": [
+    {
+      "src": "./app-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./app-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
